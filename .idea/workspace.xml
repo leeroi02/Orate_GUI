@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e7e1477-990b-4721-b208-61985cf40ef7" name="Changes" comment="Add File :D">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeapYear/LeapYear.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeapYear/LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SimpleCalculator/SimpleCalculator.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SimpleCalculator/SimpleCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeapYear/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeapYear/LeapYear.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +38,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH": "332",
+    "UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH": "155",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
@@ -51,6 +51,14 @@
       <option name="presentableId" value="Default" />
       <updated>1700120006787</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add File :D">
+      <created>1700122839275</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700122839275</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -60,6 +68,9 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Orate_GUI$LeapYear.ic" NAME="LeapYear Coverage Results" MODIFIED="1700122665997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>LeapYear.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Orate_GUI$SimpleCalculator.ic" NAME="SimpleCalculator Coverage Results" MODIFIED="1700125378144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>SimpleCalculator.*</FILTER>
     </SUITE>
   </component>
 </project>
